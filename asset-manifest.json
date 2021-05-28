@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/CentrumDziecka/static/css/main.a6c9ca6f.chunk.css",
+    "main.js": "/CentrumDziecka/static/js/main.eb3b3822.chunk.js",
+    "main.js.map": "/CentrumDziecka/static/js/main.eb3b3822.chunk.js.map",
+    "runtime-main.js": "/CentrumDziecka/static/js/runtime-main.1e32e562.js",
+    "runtime-main.js.map": "/CentrumDziecka/static/js/runtime-main.1e32e562.js.map",
+    "static/js/2.d4841173.chunk.js": "/CentrumDziecka/static/js/2.d4841173.chunk.js",
+    "static/js/2.d4841173.chunk.js.map": "/CentrumDziecka/static/js/2.d4841173.chunk.js.map",
+    "index.html": "/CentrumDziecka/index.html",
+    "static/css/main.a6c9ca6f.chunk.css.map": "/CentrumDziecka/static/css/main.a6c9ca6f.chunk.css.map",
+    "static/js/2.d4841173.chunk.js.LICENSE.txt": "/CentrumDziecka/static/js/2.d4841173.chunk.js.LICENSE.txt",
+    "static/media/Anna.6a6b3cef.jpg": "/CentrumDziecka/static/media/Anna.6a6b3cef.jpg",
+    "static/media/Krystian.c33a7aad.jpg": "/CentrumDziecka/static/media/Krystian.c33a7aad.jpg",
+    "static/media/Maria.149a1e19.jpg": "/CentrumDziecka/static/media/Maria.149a1e19.jpg",
+    "static/media/index.css": "/CentrumDziecka/static/media/hands-2847508_1920.994a6c53.jpg",
+    "static/media/img1.d827be28.jpg": "/CentrumDziecka/static/media/img1.d827be28.jpg",
+    "static/media/img2.20b1b44e.jpg": "/CentrumDziecka/static/media/img2.20b1b44e.jpg",
+    "static/media/img3.b6dd2a22.jpg": "/CentrumDziecka/static/media/img3.b6dd2a22.jpg",
+    "static/media/logo.3979daaf.png": "/CentrumDziecka/static/media/logo.3979daaf.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e32e562.js",
+    "static/js/2.d4841173.chunk.js",
+    "static/css/main.a6c9ca6f.chunk.css",
+    "static/js/main.eb3b3822.chunk.js"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+    "news":[
+    {   "title": "Nowe centrum dziecka! - otwarcie już w najbliższą Sobotę!",
+        "about": {
+            "date": "18.05.21",
+            "category": "wydarzenie",
+            "author": "Patryk",
+            "status": "normalne"
+        },
+        "short": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad voluptatem, libero eveniet nobis id cumque soluta velit impedit commodi optio.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad voluptatem, libero eveniet nobis id cumque soluta velit impedit commodi optio.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad voluptatem, libero eveniet nobis id cumque soluta velit impedit commodi optio."
+    },
+    {   "title": "Nowe centrum dziecka! - otwarcie już w najbliższą Sobotę!",
+        "about": {
+            "date": "18.05.21",
+            "category": "wydarzenie",
+            "author": "Patryk",
+            "status": "normalne"
+        },
+        "short": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad voluptatem, libero eveniet nobis id cumque soluta velit impedit commodi optio.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad voluptatem, libero eveniet nobis id cumque soluta velit impedit commodi optio.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad voluptatem, libero eveniet nobis id cumque soluta velit impedit commodi optio."
+    },
+    {   "title": "Nowe centrum dziecka! - otwarcie już w najbliższą Sobotę!",
+        "about": {
+            "date": "18.05.21",
+            "category": "wydarzenie",
+            "author": "Patryk",
+            "status": "normalne"
+        },
+        "short": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad voluptatem, libero eveniet nobis id cumque soluta velit impedit commodi optio.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad voluptatem, libero eveniet nobis id cumque soluta velit impedit commodi optio.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad voluptatem, libero eveniet nobis id cumque soluta velit impedit commodi optio."
+    },
+    {   "title": "Nowe centrum dziecka! - otwarcie już w najbliższą Sobotę!",
+        "about": {
+            "date": "18.05.21",
+            "category": "wydarzenie",
+            "author": "Patryk",
+            "status": "normalne"
+        },
+        "short": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad voluptatem, libero eveniet nobis id cumque soluta velit impedit commodi optio.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad voluptatem, libero eveniet nobis id cumque soluta velit impedit commodi optio.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad voluptatem, libero eveniet nobis id cumque soluta velit impedit commodi optio."
+    }
+]
+}
